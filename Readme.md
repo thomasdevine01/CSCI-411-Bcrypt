@@ -1,4 +1,4 @@
-### CSCI 411 Final Project
+## CSCI 411: Advanced Algorithms - Final Project
 Implementing Bcrypt in CPP
 
 To compile run
