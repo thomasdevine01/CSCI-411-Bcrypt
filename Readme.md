@@ -1,5 +1,5 @@
 ## CSCI 411: Advanced Algorithms - Final Project
-Implementing Bcrypt in CPP
+Implementing Bcrypt in CPP (Modified to use standard base64, instead of modified base64)
 
 To compile run
 ```sh
